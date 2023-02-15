@@ -23,7 +23,7 @@ class ViewController: UIViewController {
     
     private func applyStyles() {
         
-        Register.font = UIFont(name: "Helvetica", size: 32)
+        Register.font = UIFont(name: "Helvetica", size: 30)
         
         EmailInput.placeholder = "Email"
         EmailInput.layer.cornerRadius = 1
